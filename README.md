@@ -5,6 +5,9 @@ undistortion_demo.m:
   Takes in a set of calibration images taken by the same camera. Calibrate the camera using the standard pinhole model
   in MATLAB's calibration toolbox. Generate the undistorted version of the input images and a calibration session file.
 
+PGexample.mlx:
+  A MATLAB file with step-by-step instructions for completing a photogrammetry example, provided by Nick Prouse.
+
 PG_demo_floor.m:
   Script used to complete the 3D reconstruction of a swimming pool floor pattern using a set of undistorted images. 
   
